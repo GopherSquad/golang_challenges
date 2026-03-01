@@ -9,10 +9,6 @@ Feel free to contribute! Only open-source challenges please!
 
 | | Company | Stack | Test
 |--|--|--|--
-| :tr: | [Teknasyon](https://teknasyon.com/) | Golang, Kafka, Docker, Git | [Code →](https://github.com/Teknasyon/assessments-backend) 
-| :uk: | [Reach Industries](https://reach.industries/) | Golang, Docker, Kafka | [Code →](https://github.com/Reach-Industries/Backend-Golang-Developer-Test)
-| :us: | [Form3]( https://form3.tech) | Golang, Docker | [Code →](https://github.com/form3tech-oss/interview-accountapi)
-| :us: | [Form3](https://form3.tech/) | Golang | [Code →](https://github.com/form3tech-oss/interview-simulator)
 | 🇨🇱: | [Fastwork](https://fastwork.co) | Golang | [Code →](https://github.com/fastworkco/swe-interview-go)
 | :portugal: | [Unbabel](https://unbabel.com/) | Golang | [Code →](https://github.com/Unbabel/backend-engineering-challenge)
 | :canada: | [RareCircles](https://rarecircles.com/) | Golang | [Code →](https://github.com/rarecircles/backend-challenge-go)
@@ -35,6 +31,10 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [Kensu](http://www.kensu.io) | Golang | [Code →](https://github.com/kensuio/exercise-dev-backend/blob/main/go/carrier-pricing/carrier-data.md)
 | :us: | [StackPath](https://www.stackpath.com/) | Golang | [Code →](https://github.com/stackpath/backend-developer-tests)
 | :us: | [Checkout](https://www.checkout.com/careers) | Golang | [Code →](https://github.com/cko-recruitment/payment-gateway-challenge-go)
+| :tr: | [Teknasyon](https://teknasyon.com/) | Golang, Kafka, Docker, Git | [Code →](https://github.com/Teknasyon/assessments-backend) 
+| :uk: | [Reach Industries](https://reach.industries/) | Golang, Docker, Kafka | [Code →](https://github.com/Reach-Industries/Backend-Golang-Developer-Test)
+| :us: | [Form3]( https://form3.tech) | Golang, Docker | [Code →](https://github.com/form3tech-oss/interview-accountapi)
+| :us: | [Form3](https://form3.tech/) | Golang | [Code →](https://github.com/form3tech-oss/interview-simulator)
 | :fr: | [AirCall](https://aircall.io/) | Any Programming Language | [Code →](https://github.com/aircall/technical-test-backend-api)
 | :fr: | [AirCall](https://aircall.io/) | Any Programming Language | [Code →](https://github.com/aircall/technical-test-pager)
 | :brazil: | [Bossabox](https://bossabox.com/para-profissionais) | Any Programming Language, Web API | [Code →](https://www.notion.so/Back-end-0b2c45f1a00e4a849eefe3b1d57f23c6)
