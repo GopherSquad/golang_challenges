@@ -91,8 +91,10 @@ Feel free to contribute! Only open-source challenges please!
 | :czech_republic: | [Mews](https://mews.com) | Any Programming Language, Logs Analysis | [Code →](https://github.com/MewsSystems/tech-platform-engineering-interview-task)
 | :us: | [FigureTechnologies](https://www.figure.com) | Golang, Scripting, Kubernetes | [Code →](https://github.com/FigureTechnologies/devops-skills-assessment)
 | :us: | [Teleport](https://goteleport.com/) | Golang, API Design, Kubernetes | [Code →](https://github.com/gravitational/careers/blob/main/challenges/sre/challenge.md)
+| 🇬🇧 | [Code Your Future](https://systems.codeyourfuture.io/) | Golang | [Code →](https://github.com/CodeYourFuture/immersive-go-course)
 | 🇰🇵: | [Talent Plan](https://tidb.net/talent-plan) | Golang | [Code →](https://github.com/talent-plan/tinysql)
 | 🇰🇵: | [Talent Plan](https://tidb.net/talent-plan) | Golang | [Code →](https://github.com/talent-plan/tinykv)
+| :us: | [Fly.io](https://fly.io/) | Golang, Distributed Systems | [Code →](https://github.com/fly-hiring/platform-challenge)
 | :us: | [MIT](https://www.mit.edu/) | Golang, Distributed Systems | [Code →](https://learncs.me/mit/6.824)
 
 ## Inspiration
