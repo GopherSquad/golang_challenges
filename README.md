@@ -86,6 +86,7 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [Fly.io](https://fly.io/) | Golang | [Code →](https://github.com/fly-hiring/platform-challenge)
 | :us: | [GlobalWebIndex](https://www.gwi.com/) | Golang | [Code →](https://github.com/GlobalWebIndex/platform-go-challenge)
 | :us: | [Form3](https://www.form3.tech/) | Golang, Terraform | [Code →](https://github.com/form3tech-oss/platform-interview)
+| :us: | [Form3](https://www.form3.tech/) | Golang, Kubernetes | [Code →](https://github.com/form3tech-oss/kubernetes-interview/tree/add-interview-guide)
 | :us: | [PipeOps](https://pipeops.io) | Golang | [Code →](https://github.com/PipeOpsHQ/golang-take-home-test)
 | :fr: | [Ten Ten](https://github.com/tentenapp) | Any Programming Language | [Code →](https://github.com/tentenapp/platform-interview-test)
 | :czech_republic: | [Mews](https://mews.com) | Any Programming Language, Logs Analysis | [Code →](https://github.com/MewsSystems/tech-platform-engineering-interview-task)
@@ -94,6 +95,7 @@ Feel free to contribute! Only open-source challenges please!
 | 🇬🇧 | [Code Your Future](https://systems.codeyourfuture.io/) | Golang | [Code →](https://github.com/CodeYourFuture/immersive-go-course)
 | 🇰🇵: | [Talent Plan](https://tidb.net/talent-plan) | Golang | [Code →](https://github.com/talent-plan/tinysql)
 | 🇰🇵: | [Talent Plan](https://tidb.net/talent-plan) | Golang | [Code →](https://github.com/talent-plan/tinykv)
+| :us: | [Aphyr](https://github.com/aphyr) | Golang, Distributed Systems | [Code →](https://github.com/aphyr/distsys-class)
 | :us: | [Fly.io](https://fly.io/) | Golang, Distributed Systems | [Code →](https://github.com/fly-hiring/platform-challenge)
 | :us: | [MIT](https://www.mit.edu/) | Golang, Distributed Systems | [Code →](https://learncs.me/mit/6.824)
 
