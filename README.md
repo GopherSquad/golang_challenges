@@ -98,7 +98,7 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [Aphyr](https://github.com/aphyr) | Golang, Distributed Systems | [Code →](https://github.com/aphyr/distsys-class)
 | :us: | [Fly.io](https://fly.io/) | Golang, Distributed Systems | [Code →](https://github.com/fly-hiring/platform-challenge)
 | :us: | [MIT](https://www.mit.edu/) | Golang, Distributed Systems | [Code →](https://learncs.me/mit/6.824)
-
+| :us: | [Open Source](https://github.com/topics/go) | Golang, Open Source | [Code →](https://github.com/topics/go)
 ## Inspiration
 Inspired on [CollabChallenges](https://github.com/CollabChallenges)'s [backend-challenges](https://github.com/CollabChallenges/backend-challenges). Kudos!
 
